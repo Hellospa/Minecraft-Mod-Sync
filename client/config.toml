@@ -1,0 +1,6 @@
+server_address = "" # 服务器地址
+server_port = 0 # 服务器端口号
+minecraft_dir = "" # Minecraft版本目录路径 （versions/<版本>/） 使用相对路径
+
+# client状态
+always_automiac_del_mods = false # 是否总是自动删除多余模组
